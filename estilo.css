@@ -1,0 +1,50 @@
+#cuerpo{
+background-color: #80D2E7; 
+}
+a{
+text-decoration:none; 
+color:#fffffF;
+font-family: "Arial Black";
+}
+#cabecera {
+background: #EEE9EA;
+color:#0000FF;
+border: 3px solid #999999;
+border-radius:22px;
+box-shadow: 6px 20px 10px black;
+padding: 20px;
+margin:20px;
+font-family: "Arial Black";
+}
+#menu li {
+display:inline-block;
+color:#FFFFFF;
+background: #324A6C;
+border: 3px solid #FFFFFF;
+border-radius:22px;
+padding: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
+#seccion{
+background:#3294D8;
+border: 1px solid #FFFFFF;
+border-radius:22px;
+font-family:Arial;
+font-size:large;
+padding: 10px;
+text-align:justify;
+}
+#pie{
+background:#3294D8;
+border: 1px solid #FFFFFF;
+border-radius:22px;
+font-family:Arial;
+font-size:large;
+box-shadow: 6px 20px 10px black;
+padding: 10px;
+margin:10px;
+text-align:center;
+font-family: "Arial Black";
+}
